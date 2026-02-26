@@ -1,0 +1,6 @@
+{
+  "appId": "com.yourname.webtooncropper",
+  "appName": "Webtoon Cropper Pro",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
